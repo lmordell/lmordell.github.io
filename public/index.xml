@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website of Lee Mordell</title>
+    <link>https://lmordell.github.io/</link>
+    <description>Recent content on Website of Lee Mordell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 04 Apr 2021 15:19:10 -0700</lastBuildDate><atom:link href="https://lmordell.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Tips</title>
+      <link>https://lmordell.github.io/projects/mytips/</link>
+      <pubDate>Sun, 04 Apr 2021 15:19:10 -0700</pubDate>
+      
+      <guid>https://lmordell.github.io/projects/mytips/</guid>
+      <description>My Tips is a tip tracking and organizing application built in Flutter and availble on the Apple App Store and Google Play Store.</description>
+    </item>
+    
+  </channel>
+</rss>
