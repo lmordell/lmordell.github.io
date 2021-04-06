@@ -16,5 +16,15 @@
       <description>My Tips is a tip tracking and organizing application built in Flutter and availble on the Apple App Store and Google Play Store.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://lmordell.github.io/mytips/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lmordell.github.io/mytips/privacy-policy/</guid>
+      <description>Privacy Policy
+Lee Mordell built the MyTips app as an Ad Supported app.</description>
+    </item>
+    
   </channel>
 </rss>

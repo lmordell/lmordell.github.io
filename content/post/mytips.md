@@ -19,4 +19,6 @@ Users can define the sources for their tips such as cash, credit, a friend, Venm
 :-------------------------:|:-------------------------:
 ![Dashboard](/images/view_tips.png) | ![Dashboard](/images/dark_mode.png)
 
+[Privacy Policy]({{< ref "/mytips/privacy-policy.md" >}})
+
 
